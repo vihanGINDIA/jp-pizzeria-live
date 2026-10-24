@@ -248,8 +248,8 @@ blockquote cite { display: block; margin-top: .8rem; color: #c9cbbd; font: 600 .
 .subpage-art::before { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(25,28,22,.04), rgba(25,28,22,.62)); content: ''; }
 .subpage-art::after { position: absolute; inset: 14% 12% 11%; border: 1px solid rgba(244,241,233,.55); border-radius: 50% 50% 2px 2px; content: ''; }
 .subpage-art span { position: relative; z-index: 1; font: 1.65rem/1.05 var(--display); }
-.menu-art { background: #695a42 url('/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-2.webp') center / cover; }
-.story-art { background: #495140 url('/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-3.webp') center / cover; }
+.menu-art { background: #695a42 url('pizza-oven.webp') center / cover; }
+.story-art { background: #495140 url('pizza-table.webp') center / cover; }
 .visit-page-hero { background: #ece7db; }
 .visit-page-hero .service-tags { margin-top: 1.1rem; }
 
