@@ -12,31 +12,31 @@ const featuredDishes = [
     id: 'margherita',
     title: 'Traditional Neapolitan Margherita Pizza',
     note: 'Listed on Google Maps',
-    image: '/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-2.webp',
+    image: 'pizza-oven.webp',
   },
   {
     id: 'burrata',
     title: 'Burrata Pizza with Pesto Drizzle',
     note: 'Listed on Google Maps',
-    image: '/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-3.webp',
+    image: 'pizza-table.webp',
   },
   {
     id: 'pizza-bianca',
     title: 'Pizza Bianca',
     note: 'Featured by JP Pizzeria on Instagram',
-    image: '/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-1.webp',
+    image: 'pizza-margherita.webp',
   },
   {
     id: 'mediterranean',
     title: 'Mediterranean',
     note: 'Featured by JP Pizzeria on Instagram',
-    image: '/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-2.webp',
+    image: 'pizza-oven.webp',
   },
   {
     id: 'quattro-formaggi',
     title: 'Quattro Formaggi',
     note: 'Featured by JP Pizzeria on Instagram',
-    image: '/manus-storage/async-images/yRkxwejKPO7Op672CAOkFu/image-3.webp',
+    image: 'pizza-table.webp',
   },
 ];
 
